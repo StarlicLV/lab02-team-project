@@ -35,21 +35,21 @@
       python --version
       ```
    2. Встановіть [Git](https://git-scm.com/) і перевірте його:
-      ```bash
-      git --version
-      ```
-   3. Склонуйте репозиторій:
+```bash
+git --version
+```
+   4. Склонуйте репозиторій:
       ```bash
       git clone git@github.com:StarlicLV/lab02-team-project.git
       cd lab02-team-project
       ```
-   4. (Необов'язково) Створіть і активуйте віртуальне середовище:
+   5. (Необов'язково) Створіть і активуйте віртуальне середовище:
       ```bash
       python -m venv .venv
       source .venv/Scripts/activate   # Git Bash на Windows
       ```
       На macOS та Linux: `source .venv/bin/activate`.
-   5. Якщо в проєкті є файл `requirements.txt`, встановіть залежності:
+   6. Якщо в проєкті є файл `requirements.txt`, встановіть залежності:
       ```bash
        pip install -r requirements.txt
       ```
@@ -58,11 +58,11 @@
 
    Кожен модуль запускається окремо з кореня репозиторію:
 
-      ```bash
-      python calculator.py
-      python converter.py
-      python password_generator.py
-      ```
+```bash
+python calculator.py
+python converter.py
+python password_generator.py
+```
 
    ### Робота з Git у команді
 
