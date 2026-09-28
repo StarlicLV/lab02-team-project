@@ -7,6 +7,7 @@
    - Назва команди: ...
    
    - Учасники команди:
+     
    | Учасник | GitHub | Роль | Модуль |
    |---------|--------|------|--------|
    | Систалюк Артем Васильович | [StarlicLV](https://github.com/StarlicLV) | Team lead + ... | назва модуля |
@@ -57,11 +58,11 @@
 
    Кожен модуль запускається окремо з кореня репозиторію:
 
-   ```bash
-   python calculator.py
-   python converter.py
-   python password_generator.py
-   ```
+      ```bash
+      python calculator.py
+      python converter.py
+      python password_generator.py
+      ```
 
    ### Робота з Git у команді
 
@@ -80,16 +81,16 @@
 
    ### Структура репозиторію
 
-   ```
-   lab02-team-project/
-   ├── .gitignore
-   ├── README.md
-   ├── CHANGELOG.md
-   ├── lab02-report.md
-   ├── calculator.py
-   ├── converter.py
-   └── password_generator.py
-   ```
+      ```
+      lab02-team-project/
+      ├── .gitignore
+      ├── README.md
+      ├── CHANGELOG.md
+      ├── lab02-report.md
+      ├── calculator.py
+      ├── converter.py
+      └── password_generator.py
+      ```
 
    ## Історія змін
 
