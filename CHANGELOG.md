@@ -22,4 +22,4 @@
 
 ### Added
 - Початковий коміт репозиторію.
-- Файл `.gitignore` для виключення службових файлів.
+- Файл [`.gitignore`](https://github.com/StarlicLV/lab02-team-project/blob/main/.gitignore) для виключення службових файлів.
