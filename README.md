@@ -88,10 +88,10 @@ lab02-team-project/
 ├── .gitignore
 ├── README.md
 ├── CHANGELOG.md
-├── lab02-report.md
 ├── calculator.py
 ├── converter.py
 └── password_generator.py
+├── ArtemSystaliuk-lab02-report.md
 ```
 
    ## Історія змін
