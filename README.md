@@ -14,7 +14,7 @@
    |---------|--------|------|--------|
    | Систалюк Артем Васильович | [StarlicLV](https://github.com/StarlicLV) | Team lead + ... | назва модуля |
    | Кубський Максим Сергійович | [morgkub](https://github.com/morgkub) | ... | назва модуля |
-   | Марчук Максим Сергійович | [...](https://github.com/...) | ... | назва модуля |
+   | Марчук Максим Сергійович | [maksymarchuk](https://github.com/maksymarchuk) | ... | назва модуля |
 
    ## Модулі проєкту
 
