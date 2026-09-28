@@ -7,7 +7,7 @@
 ### Added
 - Опис проєкту, інструкції зі встановлення та запуску в [`README.md`](https://github.com/StarlicLV/lab02-team-project/blob/main/README.md).
 - Файл [`CHANGELOG.md`](https://github.com/StarlicLV/lab02-team-project/blob/main/CHANGELOG.md) з історією змін.
-- Індивідуальні звіти учасників команди [`lab02-report.md`](https://github.com/StarlicLV/lab02-team-project/blob/main/lab02-report.md).
+- Індивідуальні звіти учасників команди.
 
 ### Fixed
 - Змінено розташування блоків.
