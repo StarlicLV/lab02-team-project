@@ -12,9 +12,9 @@
      
    | Учасник | GitHub | Роль | Модуль |
    |---------|--------|------|--------|
-   | Систалюк Артем Васильович | [StarlicLV](https://github.com/StarlicLV) | Team lead + ... | назва модуля |
-   | Кубський Максим Сергійович | [morgkub](https://github.com/morgkub) | ... | назва модуля |
-   | Марчук Максим Сергійович | [maksymarchuk](https://github.com/maksymarchuk) | ... | назва модуля |
+   | Систалюк Артем Васильович | [StarlicLV](https://github.com/StarlicLV) | Team lead + Dev | назва модуля |
+   | Кубський Максим Сергійович | [morgkub](https://github.com/morgkub) | Dev + QA | назва модуля |
+   | Марчук Максим Сергійович | [maksymarchuk](https://github.com/maksymarchuk) | Dev + QA | назва модуля |
 
    ## Модулі проєкту
 
