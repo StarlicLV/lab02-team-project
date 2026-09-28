@@ -79,7 +79,6 @@ git switch -c feature/назва-функції
    2. Зміни комітяться за стилем Conventional Commits (`feat:`, `fix:`, `docs:` тощо).
    3. Гілка відправляється на GitHub, і створюється Pull Request.
    4. Після code review та схвалення Pull Request зливається в `main`.
-   5. Завдання ведуться в GitHub Issues, а Pull Request посилається на них (`Closes #номер`).
 
    ## Структура репозиторію
 
