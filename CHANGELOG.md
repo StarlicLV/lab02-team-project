@@ -8,7 +8,7 @@
 - Назва команди
 - Опис проєкту, інструкції зі встановлення та запуску в [`README.md`](https://github.com/StarlicLV/lab02-team-project/blob/main/README.md).
 - Файл [`CHANGELOG.md`](https://github.com/StarlicLV/lab02-team-project/blob/main/CHANGELOG.md) з історією змін.
-- Індивідуальні звіти учасників команди.
+- Звіт учасників команди.
 
 ### Fixed
 - Змінено розташування блоків.
