@@ -31,28 +31,28 @@
    ### Встановлення
 
    1. Встановіть [Python](https://www.python.org/downloads/) і перевірте версію:
-      ```bash
-      python --version
-      ```
+```bash
+python --version
+```
    2. Встановіть [Git](https://git-scm.com/) і перевірте його:
 ```bash
 git --version
 ```
    4. Склонуйте репозиторій:
-      ```bash
-      git clone git@github.com:StarlicLV/lab02-team-project.git
-      cd lab02-team-project
-      ```
+```bash
+git clone git@github.com:StarlicLV/lab02-team-project.git
+cd lab02-team-project
+```
    5. (Необов'язково) Створіть і активуйте віртуальне середовище:
-      ```bash
-      python -m venv .venv
-      source .venv/Scripts/activate   # Git Bash на Windows
-      ```
+```bash
+python -m venv .venv
+source .venv/Scripts/activate   # Git Bash на Windows
+```
       На macOS та Linux: `source .venv/bin/activate`.
    6. Якщо в проєкті є файл `requirements.txt`, встановіть залежності:
-      ```bash
-       pip install -r requirements.txt
-      ```
+```bash
+pip install -r requirements.txt
+```
 
    ### Запуск
 
@@ -69,11 +69,11 @@ python password_generator.py
    Команда працює за моделлю **Feature Branch Workflow**:
 
    1. Для кожної функції створюється окрема гілка від актуальної `main`:
-      ```bash
-      git switch main
-      git pull
-      git switch -c feature/назва-функції
-      ```
+```bash
+git switch main
+git pull
+git switch -c feature/назва-функції
+```
    2. Зміни комітяться за стилем Conventional Commits (`feat:`, `fix:`, `docs:` тощо).
    3. Гілка відправляється на GitHub, і створюється Pull Request.
    4. Після code review та схвалення Pull Request зливається в `main`.
@@ -81,16 +81,16 @@ python password_generator.py
 
    ### Структура репозиторію
 
-      ```
-      lab02-team-project/
-      ├── .gitignore
-      ├── README.md
-      ├── CHANGELOG.md
-      ├── lab02-report.md
-      ├── calculator.py
-      ├── converter.py
-      └── password_generator.py
-      ```
+```
+lab02-team-project/
+├── .gitignore
+├── README.md
+├── CHANGELOG.md
+├── lab02-report.md
+├── calculator.py
+├── converter.py
+└── password_generator.py
+```
 
    ## Історія змін
 
