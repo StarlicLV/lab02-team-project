@@ -5,8 +5,8 @@
 ## [1.0.0] - 2026-09-28
 
 ### Added
-- Файл [`-`](https://github.com/StarlicLV/lab02-team-project/blob/main/-)
-- Файл [`password_generator`](https://github.com/StarlicLV/lab02-team-project/blob/main/password_generator)
+- Файл [`converter.py`](https://github.com/StarlicLV/lab02-team-project/blob/main/converter.py)
+- Файл [`password_generator.py`](https://github.com/StarlicLV/lab02-team-project/blob/main/password_generator.py)
 - Файл [`calculator.py`](https://github.com/StarlicLV/lab02-team-project/blob/main/calculator.py)
 - Назва команди `PROGmasters`
 - Опис проєкту, інструкції зі встановлення та запуску в [`README.md`](https://github.com/StarlicLV/lab02-team-project/blob/main/README.md).
