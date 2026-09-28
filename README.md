@@ -91,7 +91,7 @@ lab02-team-project/
 ├── calculator.py
 ├── converter.py
 ├── password_generator.py
-└── ArtemSystaliuk-lab02-report.md
+└── lab02-report.md
 ```
 
    ## Історія змін
