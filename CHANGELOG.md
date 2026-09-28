@@ -5,6 +5,7 @@
 ## [1.0.0] - 2026-09-28
 
 ### Added
+- Назва команди
 - Опис проєкту, інструкції зі встановлення та запуску в [`README.md`](https://github.com/StarlicLV/lab02-team-project/blob/main/README.md).
 - Файл [`CHANGELOG.md`](https://github.com/StarlicLV/lab02-team-project/blob/main/CHANGELOG.md) з історією змін.
 - Індивідуальні звіти учасників команди.
