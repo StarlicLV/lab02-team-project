@@ -89,8 +89,8 @@ lab02-team-project/
 ├── CHANGELOG.md
 ├── calculator.py
 ├── converter.py
-├── password_generator.py
-└── lab02-report.md
+├──lab02-report.md
+└── password_generator.py 
 ```
 
    ## Історія змін
